@@ -1,0 +1,20 @@
+SV01
+Bui Van Han
+Nam
+20
+8 8 8 8
+Kha
+
+SV02
+Nguyen Trong Ha
+Nam
+20
+10 10 10 10
+Gioi
+
+SV03
+Nguyen Hai Van
+Nu
+20
+7.5 8.0 6.5 7.3
+Kha
